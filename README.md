@@ -4,7 +4,7 @@ Created: Jul 27, 2020 8:09 PM
 
 # 💈 Sobre a aplicação
 
-Front-end: 
+Front-end:
 
 - TypeScript - Permite a utilização de tipos para as variáveis, mas o TS brilha mesmo é incrementando o desenvolvimento com i IntelliSense da IDE, que nos permite descobrir erros no desenvolvimento e também saber o formato dos parâmetros sem ter de consultar a documentação.
 - ReactJS - O React é a biblioteca mais popular do JavaScript, desenvolvida pelo pessoal do Facebook, e é usada para construir interfaces de usuário (IU).
@@ -30,3 +30,5 @@ Com certeza tem bastante coisas a melhorar e aprimorar, então sinta-se a vontad
 Se você chegou até aqui eu lhe agradeço por acreditar que esse repositório possa ter lhe agragado algum valor e/ou conhecimento.
 
 Quem sabe não desenvolvemos algo juntos um dia 🤩.
+
+![](GoBarber.gif)
